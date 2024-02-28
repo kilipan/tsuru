@@ -39,3 +39,7 @@ Tested and working [ZMK firmware](https://github.com/kilipan/zmk-config-tsuru) i
 
 ## Availability
 All files are provided under CERN-OHL-S license. Feel free to build your own!
+
+## Thanks
+Thank you Pete Johanson for letting me use the SAMD21 schematic and zmk config from the [samd21pad](https://github.com/petejohanson/samd21pad/) and for all the help getting the bootloader onto the chip!
+This would've never gotten anywhere without your help <3
