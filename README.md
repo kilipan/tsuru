@@ -4,7 +4,7 @@
 A cute lil 3-row, katana-staggered keyboard with ISO-Enter compat :)
 
 ## Layout Options
-![KLE](https://github.com/kilipan/tsuru/blob/main/img/tsuru_KLE.jpg?raw=true)
+![KLE](https://github.com/kilipan/tsuru/blob/main/img/tsuru_KLE.png?raw=true)
 
 ## BOM
 | Amount | Part | LCSC part number | Schematic Designator |
