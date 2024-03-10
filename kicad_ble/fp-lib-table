@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "samd21pad")(type "KiCad")(uri "${KIPRJMOD}/samd21pad.pretty")(options "")(descr ""))
   (lib (name "projectlib")(type "KiCad")(uri "${KIPRJMOD}/projectlib.pretty")(options "")(descr ""))
+  (lib (name "apfellib")(type "KiCad")(uri "${KICAD_LIB}/apfellib/apfellib.pretty")(options "")(descr ""))
+  (lib (name "BeiBob")(type "KiCad")(uri "${KICAD_LIB}/BeiBob-KiCAD-footprints/BeiBob.pretty")(options "")(descr ""))
+  (lib (name "paw-connect")(type "KiCad")(uri "${KICAD_LIB}/paw-connect.pretty")(options "")(descr ""))
 )
