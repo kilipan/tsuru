@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.62,
-          "width": 0.56
+          "drill": 1.2,
+          "height": 2.0,
+          "width": 2.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,7 +55,20 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|146384749|108724232|9be6fcae-a994-44e8-a5ef-7c75258c9460|fdd17e28-2050-4095-be74-aad1c2e4d069",
+        "courtyards_overlap|230600249|82423001|c76ae594-ead0-4404-9bda-ff0478d8fdd4|df98f1ce-b42f-424e-97c5-ce2e8c700de0",
+        "hole_near_hole|229298500|74326750|2b2a9b38-eca6-4ca0-bc5d-50a4f5a740e7|ef5cd655-f960-4e19-a291-19cfbb78708d",
+        "hole_near_hole|233743500|83693000|e7da6844-85f3-4ea9-88a1-02e721a4bb8e|7bd55194-b02c-452f-8ed5-bc906f2f9e3e",
+        "hole_near_hole|240093500|81153000|726f6e79-5d26-4571-b29f-eefbf12c70cf|20c5e6b5-b262-4db6-8387-6f25d1352044",
+        "lib_footprint_issues|237595544|104985490|2a2a3cd0-21c2-43e6-a1d0-db338abe070f|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|135452250|98806000|579b7b7f-5592-477e-9ea6-53185de6500e|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|135477250|103378000|798cfc0a-b0f6-4a7e-b7ec-5bc2f291cf7f|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|144684750|114808000|20ef1da0-4ed9-41b9-b3ff-7d81bed4950e|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|237553500|86233000|c76ae594-ead0-4404-9bda-ff0478d8fdd4|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|62625478|99608831|fa2f80e8-ac7a-4350-9f33-876e1247673b|00000000-0000-0000-0000-000000000000",
+        "unconnected_items|129093755|105320683|3ecd306e-9cf4-4697-b678-660d2b807806|1cbc7a19-6c06-45e5-a0ce-7c1ca0cb67ad"
+      ],
       "meta": {
         "version": 2
       },
