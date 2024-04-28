@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "samd21pad")(type "KiCad")(uri "${KIPRJMOD}/samd21pad.pretty")(options "")(descr ""))
+)
