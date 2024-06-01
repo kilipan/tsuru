@@ -17,8 +17,12 @@ Note: The CH552T version does not support the encoder!
 
 ![KLE](https://github.com/kilipan/tsuru/blob/main/img/tsuru_KLE.png?raw=true)
 
-## Case
+## Cases
 A beatiful wedge case (**NOT** pictured above) was made by DizzySkizzo (`dizzyskizzo1337` on Discord), who graciously allowed me to make it available under the same license. See the `case` directory.
+
+Two great cases made by [Seirin-Blu](https://github.com/seirin-blu) are available here:
+- [Tsuru MFR2](https://github.com/seirin-blu/Tsuru-MFR2)
+- [SK-Tsuru](https://github.com/seirin-blu/SK-Tsuru)
 
 ## Availability
 All files are provided under CERN-OHL-S license. Feel free to build your own!
