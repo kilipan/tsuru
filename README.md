@@ -17,6 +17,11 @@ Note: The CH552T version does not support the encoder!
 
 ![KLE](https://github.com/kilipan/tsuru/blob/main/img/tsuru_KLE.png?raw=true)
 
+## Firmware
+Firmware can be found in my respective repos:
+- [FAK config](https://github.com/kilipan/fak-config/tree/main/keyboards/tsuru)
+- [ZMK config](https://github.com/kilipan/zmk-config-tsuru)
+
 ## Cases
 A beatiful wedge case (**NOT** pictured above) was made by DizzySkizzo (`dizzyskizzo1337` on Discord), who graciously allowed me to make it available under the same license. See the `case` directory.
 
