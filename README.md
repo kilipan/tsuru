@@ -5,7 +5,7 @@ A cute lil 3-row, katana-staggered keyboard with ISO-Enter compat :)
 
 ## Versions
 As of now there exist two confirmed versions in this repo:
-- SAMD21 version (wired, ZMK only)
+- SAMD21 version (wired, ZMK only, you will have to flash a bootloader!)
 - CH552T version (wired, FAK only)
 
 An untested wireless version can be found in the ble branch.
