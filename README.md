@@ -25,11 +25,11 @@ Firmware can be found in my respective repos:
 ## Cases
 A beatiful wedge case (**NOT** pictured above) was made by DizzySkizzo (`dizzyskizzo1337` on Discord), who graciously allowed me to make it available under the same license. See the `case` directory.
 
+A super fun case with a key strap and transport shell made by krisenplan is available [on printables](https://www.printables.com/de/model/946165-tsuru-travel-keyboard-case)!
+
 Two great cases made by [Seirin-Blu](https://github.com/seirin-blu) are available here:
 - [Tsuru MFR2](https://github.com/seirin-blu/Tsuru-MFR2)
 - [SK-Tsuru](https://github.com/seirin-blu/SK-Tsuru)
-
-Another super fun case with a key strap and transport shell made by krisenplan (`krisenplan` on Discord) exists.
 
 ## Availability
 All files are provided under CERN-OHL-S license. Feel free to build your own!
